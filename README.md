@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/21671277/README.md)
 # Titanic: Hayatta Kalma Analizi
 
 Bu proje, Titanic felaketine ait yolcu verilerini kullanarak hayatta kalma oranlarını etkileyen faktörlerin derinlemesine bir keşifsel veri analizini (EDA) içermektedir. Projenin temel amacı, veri setindeki ilişkileri, dağılımları ve anormallikleri görselleştirme teknikleriyle ortaya çıkararak anlamlı içgörüler elde etmektir.
