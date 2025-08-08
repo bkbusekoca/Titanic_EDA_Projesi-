@@ -35,7 +35,7 @@ Yapılan analizler ve görselleştirmeler sonucunda aşağıdaki önemli bulgula
 ### Hayatta Kalma Oranı
 
 <p align="center">
-  <img src="https://i.imgur.com/88575247-1ce9-4b8a-9ff8-4c5056855a53.png" width="600">
+  <img src="https://i.imgur.com/qDvBljF.png" width="600">
 </p>
 
 Veri setindeki yolcuların yaklaşık **%38'i** hayatta kalırken, **%62'si** hayatını kaybetmiştir. Bu durum, felaketin büyüklüğünü ve kurtarma çabalarının yetersizliğini gözler önüne sermektedir.
@@ -43,7 +43,7 @@ Veri setindeki yolcuların yaklaşık **%38'i** hayatta kalırken, **%62'si** ha
 ### Cinsiyetin Hayatta Kalma Üzerindeki Etkisi
 
 <p align="center">
-  <img src="https://i.imgur.com/07a4f987-ed6b-48d3-86c5-635553f95e71.png" width="600">
+  <img src="https://i.imgur.com/aYFCm3a.png" width="600">
 </p>
 
 Cinsiyet, hayatta kalma oranını en güçlü şekilde etkileyen faktörlerden biridir. **Kadın yolcuların hayatta kalma olasılığı, erkek yolculara kıyasla belirgin şekilde daha yüksektir.** Bu bulgu, "önce kadınlar ve çocuklar" kurtarma protokolünün uygulandığına dair güçlü bir kanıt niteliğindedir.
@@ -51,7 +51,7 @@ Cinsiyet, hayatta kalma oranını en güçlü şekilde etkileyen faktörlerden b
 ### Yolcu Sınıfının Etkisi
 
 <p align="center">
-  <img src="https://i.imgur.com/709f09dc-62f0-4bde-adc4-957e212b6b0e.png" width="600">
+  <img src="https://i.imgur.com/cnCUUgt.png" width="600">
 </p>
 
 Yolcu sınıfı (Pclass), hayatta kalma olasılığını önemli ölçüde etkilemektedir. **1. sınıf yolcuların hayatta kalma oranı, 2. ve 3. sınıf yolcularına göre çok daha yüksektir.** En düşük hayatta kalma oranı ise 3. sınıf yolcularında görülmektedir. Bu durum, sosyal sınıfın kurtarma önceliğinde belirleyici bir rol oynadığını göstermektedir.
@@ -59,7 +59,7 @@ Yolcu sınıfı (Pclass), hayatta kalma olasılığını önemli ölçüde etkil
 ### Yaş Dağılımının İncelenmesi
 
 <p align="center">
-  <img src="https://i.imgur.com/70f94567-8a38-4730-a435-d9ad18a7a5a3.png" width="600">
+  <img src="https://i.imgur.com/vAEYcFt.png" width="600">
 </p>
 
 Yaş dağılımı incelendiğinde, **küçük yaştaki çocukların hayatta kalma oranının daha yüksek olduğu** gözlemlenmiştir. Buna karşın, **20-30 yaş aralığındaki genç yetişkinlerin** hayatta kalma oranlarının daha düşük olduğu görülmektedir. Bu durum, gençlerin kurtarma sırasında daha az öncelikli gruplar arasında yer aldığını düşündürmektedir.
@@ -88,7 +88,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 1.  **Bu repoyu klonlayın:**
     ```bash
-    git clone [https://github.com/kullanici-adiniz/titanic-analizi.git](https://github.com/kullanici-adiniz/titanic-analizi.git)
+    git clone [https://github.com/bkbusekoca/Titanic_EDA_Projesi-.git](https://github.com/bkbusekoca/Titanic_EDA_Projesi-.git)
     ```
 2.  **Proje dizinine gidin:**
     ```bash
@@ -98,7 +98,6 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
     ```bash
     pip install -r requirements.txt
     ```
-    *(Not: `requirements.txt` dosyasını `pip freeze > requirements.txt` komutuyla oluşturmanız gerekmektedir.)*
 
 4.  **Jupyter Notebook'u başlatın:**
     ```bash
